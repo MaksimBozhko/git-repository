@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+}
+.slider-car {
+    display: flex;
+    align-items: center ;
+    justify-content: center ;
+}
+.slide-img {
+   width: 568px;
+   height: 354px;
+   margin: 0px 20px 0px 20px;
+}
+
+.slider-car button {
+    width: 75px;
+    height: 34px;
+    font-size: 25px;
+}
